@@ -4,9 +4,9 @@ from setuptools import setup
 # این کانفیگ ثابته و کپی کردم و اینجا قرار دادم
 # name, version, package ==> necessary  -  Other ==> optional
 setup(name='fixer-demo',
-      version='0.1',
+      version='0.2',
       description='Fixer service demo package',
-      url='https://gitlab.com/bhi2017.b/fixer-demo',
+      url='https://github.com/bhib1/fixer-demopython setup.py sdist',
       author='Behnam',
       author_email='me@example.com',
       license='MIT',

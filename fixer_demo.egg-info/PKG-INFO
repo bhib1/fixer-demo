@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: fixer-demo
-Version: 0.1
+Version: 0.2
 Summary: Fixer service demo package
-Home-page: https://gitlab.com/7learn-py-web/fixer-demo
+Home-page: https://github.com/bhib1/fixer-demopython setup.py sdist
 Author: Behnam
-Author-email: hosein@inprobes.com
+Author-email: me@example.com
 License: MIT
 Platform: UNKNOWN
 
